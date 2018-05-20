@@ -1,0 +1,25 @@
+#include<stdio.h>
+#include<conio.h>
+int main()
+{
+int a=4,b=6;
+int sum;
+sum=a+b
+if(sum>0)
+{
+printf(the sum is positive)
+}
+else
+{
+printf("the sum is negative")
+int sub;
+sub=a-b;
+if(sub>0)
+{
+printf("the sub is greater")
+}
+else
+{
+printf("the sub is negative")
+}
+}
